@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Description:
+
+Create a simple reactjs app, That authenticated using Firebase authentication and after successful authentication, it opens the page as shown in the attachment, and once the user hits the "submit" button.  That information has to the stored in the firebase.
+
+Note: You need to use ReactJS, and Firebase to build this.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
