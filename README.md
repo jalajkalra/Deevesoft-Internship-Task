@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Deployed Link: deevesoftinternship.firebaseapp.com
+Deployed Link: https://deevesoftinternship.firebaseapp.com/
 
 Description:
 
