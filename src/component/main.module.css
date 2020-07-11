@@ -1,0 +1,54 @@
+.Container{
+    display: flex;
+    justify-content: space-around;
+    background-color: whitesmoke;
+    font-weight: 500;
+    margin: 2% 0 5% 0;
+    align-items: center;
+}
+.Heading{
+    font-weight: bold;
+}
+.Title{
+    padding: 1%;
+    width:100%;
+    cursor:pointer;
+}
+.FormContainer{
+    background-color: whitesmoke;
+    padding: 10%;
+}
+.Radio{
+    margin: 5% 0;
+}
+.Button{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 1%;
+    border: 1.5px solid steelblue;
+    width: 200px;
+    background-color: white;
+}
+.Button:hover{
+    background-color: steelblue;
+    color: white;
+}
+.Logout{
+    display: flex;
+    justify-content: flex-end;
+}
+.Span{
+    padding: 1%;
+    background-color: rgb(255, 49, 49);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.Span:hover{
+    background-color: rgb(253, 91, 91);
+}
+@media (max-width:576px){
+    .Title{
+        font-size: 10px;
+    }
+}

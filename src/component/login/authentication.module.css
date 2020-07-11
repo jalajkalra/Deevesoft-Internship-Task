@@ -1,0 +1,19 @@
+.Background{
+    height: 100vh;
+    background-image:linear-gradient( 135deg, rgb(44, 44, 44) 0%,rgb(174, 131, 70) 100%);
+    padding-top: 5%;
+}
+.Box{
+    background-color: white;
+    width: 30%;
+    padding: 2%;
+    margin: 0 auto;
+}
+.Img{
+    width: 200px;
+}
+.Error{
+    background-color: pink;
+    padding: 1%;
+    text-align: center;
+}
